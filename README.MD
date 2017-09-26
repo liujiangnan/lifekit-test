@@ -4,4 +4,4 @@
     
 # 访问方式
 
-http://localhost:8800/lifekit-test
+http://localhost:1337/lifekit-test
